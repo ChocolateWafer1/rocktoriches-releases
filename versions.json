@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "version": "0.2.0",
+      "title": "First Rocks",
+      "date": "2026-10-30",
+      "size": "First release",
+      "summary": "Rock to Riches joins the launcher: turn a single rock into a glowing factory.",
+      "intro": "Rock to Riches is a factory game about turning plain rocks into a fortune. Drop rocks on a belt, run them through machines to raise their value, sell them, and spend the money on bigger and better things.",
+      "download": "https://github.com/ChocolateWafer1/rocktoriches-releases/releases/download/v0.2.0/RocktoRiches-0.2.0-win.zip",
+      "bytes": 33314010,
+      "sha256": "b8cb5589dc9b860368165e7a8c1672a7e81508f314e92859f2957f301c317d73",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "528 factory pieces|Belts, droppers, machines and sellers, each with its own look and animation.",
+            "Upgrade tree and rebirths|Spend gems on lasting upgrades, then start over stronger.",
+            "A living world|Day turns to night, lamps come on, and grass slowly grows back around your factory.",
+            "Five game modes|Casual, Normal, Difficult, Hardcore and Sandbox.",
+            "Safe saves|Your factories stay safe through updates, and backups are kept for you."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/rocktoriches-releases/main/pictures/rocktoriches-0.2.0.jpg"
+    }
+  ]
+}
